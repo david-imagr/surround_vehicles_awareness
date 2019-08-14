@@ -1,8 +1,8 @@
 from model import SDPN
-from keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam
 from load_data import get_sample_batch
 from utils import show_prediction
-from keras.utils.data_utils import get_file
+from tensorflow.keras.utils import get_file
 
 
 TH_WEIGHTS_PATH = 'http://imagelab.ing.unimore.it/files/pretrained_models/keras/SPDN_w.hdf5'
