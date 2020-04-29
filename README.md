@@ -1,5 +1,5 @@
 # Learning to Map Vehicles into Bird's Eye View
-
+![Python application](https://github.com/david-imagr/surround_vehicles_awareness/workflows/Python%20application/badge.svg)
 <p align="center">
   <img src="img/task_overview.png" height="180">
 </p>
